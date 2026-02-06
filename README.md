@@ -35,6 +35,8 @@ Hands-on Python examples and additional resources are available in the companion
 The book is co-authored by experts in AI and machine learning:
 Weiche Hsieh, Ziqian Bi, Chuanqi Jiang, Junyu Liu, Benji Peng, Sen Zhang, Xuanhe Pan, Jiawei Xu, Jinlang Wang, Keyu Chen, Pohsun Feng, Yizhu Wen, Xinyuan Song, Tianyang Wang, Ming Liu, Junjie Yang, Ming Li, Bowen Jing, Jintao Ren, Junhao Song, Hong-Ming Tseng, Yichao Zhang, Lawrence K. Q. Yan, Qian Niu, Silin Chen, Yunze Wang, Chia Xin Liang.
 
+AI Disclosure: The authors utilized generative AI technologies (such as LLMs) to assist in the drafting and linguistic refinement of this work.
+
 ---
 
 ## Citation
